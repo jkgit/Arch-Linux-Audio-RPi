@@ -54,5 +54,5 @@ chrt -f -p 54 $(pgrep ksoftirqd/3)
 #iwconfig wlan0 power off
 #iwconfig wlan0 frag 2346
 #iwconfig wlan0 rts 2347
-#iw reg set GR
+iw reg set US
 
